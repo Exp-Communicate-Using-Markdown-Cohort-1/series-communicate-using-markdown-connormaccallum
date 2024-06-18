@@ -5,3 +5,7 @@
 ```
 print("Hello World!")
 ```
+
+- [ ] Learn how to use GitHub
+- [ ] Finish this lesson
+- [ ] Introduce myself to the world
